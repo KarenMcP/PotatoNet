@@ -27,7 +27,8 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-image: url("images/field.jpg");
+  background-color: #796F5C;
 }
 body {
   color: #fff;
